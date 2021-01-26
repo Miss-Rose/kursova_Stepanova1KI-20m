@@ -1,0 +1,3 @@
+﻿  NodeD.cpp
+D:\uni\programming\Stepanova (2)\Stepanova\NodeD\NodeD\NodeD.cpp(64,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  NodeD.vcxproj -> D:\uni\programming\Stepanova (2)\Stepanova\NodeD\x64\Debug\NodeD.exe
